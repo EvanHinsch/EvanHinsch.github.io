@@ -5,7 +5,7 @@
 ### Individual Projects 
 
 [RyanJamesFineArts Usability Study](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="rjfa.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
