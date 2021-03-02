@@ -4,8 +4,8 @@
 
 ### Individual Projects 
 
-[RyanJamesFineArts Usability Study](/sample_page)
-<img src="rjfa.png?raw=true"/>
+[ryan james fine arts Case Study](/sample_page)
+<img src="RJ thumb.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
